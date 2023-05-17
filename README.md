@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center"> <img style="max-width: 100%;" src="
+https://github-readme-stats.vercel.app/api/top-langs/?username=ThaneJoss&theme=react
+" />
+</div>
 
-<!--
-**ThaneJoss/ThaneJoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> <img style="max-width: 100%;" src="
+https://github-readme-stats.vercel.app/api?username=ThaneJoss&show_icons=true&theme=react
+" /> </div>
 
-Here are some ideas to get you started:
+<div align="center"> <img style="max-width: 100%;" src="
+https://streak-stats.demolab.com/?user=ThaneJoss&theme=react
+" /> </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> <img style="max-width: 100%;" src="
+https://github-readme-activity-graph.cyclic.app/graph?username=ThaneJoss&theme=react-dark
+" /> </div>
